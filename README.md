@@ -13,4 +13,4 @@ Meu nome e Gustavo Rodrigues de Miranda
  - @Rodrigues.miranda.gustavo
 
 
-   https://media.tenor.com/9DOXBiQspSQAAAAi/hampter-sad.gif
+   ![_](https://media.tenor.com/9DOXBiQspSQAAAAi/hampter-sad.gif)
